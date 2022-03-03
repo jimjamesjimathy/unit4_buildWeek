@@ -40,6 +40,6 @@ router.post('/login',
         }
   })
 
-// logout to be added in front end
+// logout to be added in front end //
 
 module.exports = router;
